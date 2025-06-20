@@ -1,4 +1,4 @@
-# 🩺 HealthAI: Intelligent Healthcare Assistant Using IBM Granite
+# 🩺 HealthAI: Intelligent Healthcare Assistant Using local models 
 
 HealthAI is an AI-powered web app designed to offer intelligent healthcare assistance using Large Language Models (LLMs). Users can ask health-related questions, get disease predictions based on symptoms, receive treatment recommendations, and visualize health metrics.
 
