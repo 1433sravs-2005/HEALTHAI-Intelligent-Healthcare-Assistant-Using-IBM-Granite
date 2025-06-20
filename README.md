@@ -3,7 +3,6 @@
 HealthAI is an AI-powered web app designed to offer intelligent healthcare assistance using Large Language Models (LLMs). Users can ask health-related questions, get disease predictions based on symptoms, receive treatment recommendations, and visualize health metrics.
 
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?style=for-the-badge&logo=streamlit)
-![IBM](https://img.shields.io/badge/Powered%20by-IBM%20Granite-blue?style=for-the-badge&logo=ibm)
 ![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge)
 
 ---
@@ -21,7 +20,7 @@ HealthAI is an AI-powered web app designed to offer intelligent healthcare assis
 
 - **Frontend**: Streamlit
 - **Backend**: Python
-- **AI Model**: IBM Granite 13B Instruct v2 (LLM)
+- **AI Model**: google/flan-t5-base
 - **Data Visualization**: Plotly, Pandas
 
 ---
@@ -36,10 +35,8 @@ cd HEALTH-AI-USING-LOCAL-MODEL
 # Install dependencies
 pip install -r requirements.txt
 
-# Create a .env file with your IBM API credentials
-# Example:
-# API_KEY=your_ibm_api_key
-# PROJECT_ID=your_ibm_project_id
+#app.py
+#add python code and ctrl+s
 
 # Run the app
 streamlit run app.py
