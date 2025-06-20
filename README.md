@@ -2,8 +2,14 @@
 
 HealthAI is an AI-powered web app designed to offer intelligent healthcare assistance using Large Language Models (LLMs). Users can ask health-related questions, get disease predictions based on symptoms, receive treatment recommendations, and visualize health metrics.
 
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?style=for-the-badge&logo=streamlit)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit)](https://health-ai-using-local-model-h9vvlpf7vyapp5fqfaae7di.streamlit.app/)
 ![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge)
+
+
+
+
+🚀 A smart AI-powered healthcare assistant built using Hugging Face Transformers and Streamlit.
+
 
 ---
 > ⚠️ Note:
