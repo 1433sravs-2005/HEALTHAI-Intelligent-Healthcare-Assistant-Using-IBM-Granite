@@ -6,6 +6,9 @@ HealthAI is an AI-powered web app designed to offer intelligent healthcare assis
 ![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge)
 
 ---
+> ⚠️ Note:
+This project simulates IBM Granite integration using a local Hugging Face transformer model (`flan-t5-base`) due to lack of access to IBM API credentials.
+The architecture and functionality are designed as per the IBM SmartInternz guidelines.
 
 ## 🔥 Features
 
