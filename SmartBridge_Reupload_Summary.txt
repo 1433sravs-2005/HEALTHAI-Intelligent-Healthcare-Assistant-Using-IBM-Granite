@@ -1,0 +1,14 @@
+Name: Sravya Prathipati
+Team ID: LTVIP2025TMID36674
+
+GitHub Repository:
+https://github.com/1433sravs-2005/HEALTHAI-Intelligent-Healthcare-Assistant-Using-IBM-Granite
+
+Demo Video Link:
+https://drive.google.com/file/d/10nQcmlXvjvUDSBjLAb0afYWeFvrcChL9/view?usp=sharing
+
+Google Drive Folder Containing All Required Project Files (Design Phase, Requirement Analysis, Planning, Performance Testing, Final Report):
+https://drive.google.com/drive/folders/1-Z--Ej5xls00D6Uyqr_J_2GHXETbBLuu?usp=sharing
+All documents have been uploaded in the correct format for final evaluation.
+
+Thank you.
